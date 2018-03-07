@@ -3,6 +3,8 @@
     * Alan Kay describes the most important concept to Smalltalk, and why metaprogramming is necessary http://lists.squeakfoundation.org/pipermail/squeak-dev/1998-October/017019.html
     * Martin Fowler explains the concept behind image-based persistence: https://martinfowler.com/bliki/MemoryImage.html
     * https://en.wikipedia.org/wiki/Smalltalk#External_links
+* http://www.cincomsmalltalk.com/main/products/visualworks/visualworks-tutorials/
+    * e.g. "Using stdin/stdout" was helpful.
 
 
 Maybe interesting?
